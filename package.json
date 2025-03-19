@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "nexus-api",
   "private": true,
   "scripts": {
     "build": "turbo run build",
