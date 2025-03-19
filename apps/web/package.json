@@ -12,9 +12,11 @@
   },
   "dependencies": {
     "@repo/ui": "*",
+    "axios": "^1.8.4",
     "next": "^15.2.1",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "tailwindcss": "^3.0.0"
   },
   "devDependencies": {
     "@repo/eslint-config": "*",
@@ -22,7 +24,9 @@
     "@types/node": "^22.13.10",
     "@types/react": "19.0.10",
     "@types/react-dom": "19.0.4",
+    "autoprefixer": "^10.4.21",
     "eslint": "^9.22.0",
+    "postcss": "^8.5.3",
     "typescript": "5.8.2"
   }
 }
